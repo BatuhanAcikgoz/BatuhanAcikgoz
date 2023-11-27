@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @BatuhanAcikgoz<br>- 👀 I’m interested in JavaScript, JAVA and C#<br>- 🌱 I’m currently learning Java<br>- 📫 You can reach me from discord<br>- 🌐 My personal website is https://batuhanacikgoz.com.tr<br><br>Hi, I'm Reeignn, I am founder of ZoraPvP and I'm freelancer. You can visit https://radome.web.tr If you want contact to me, you can add me on discord with Reeignn#4597 or @reeignn tag. Or you can just mail me with iletisim@batuhanacikgoz.com.tr
+- 👋 Hi, I’m @BatuhanAcikgoz<br>- 👀 I’m interested in JavaScript, JAVA and C#<br>- 🌱 I’m currently learning JavaScript<br>- 📫 You can reach me from discord<br>- 🌐 My personal website is https://batuhanacikgoz.com.tr<br><br>Hi, I'm Reeignn, I am founder of ZoraPvP and I'm freelancer. You can visit https://radome.web.tr If you want contact to me, you can add me on discord with Reeignn#4597 or @reeignn tag. Or you can just mail me with iletisim@batuhanacikgoz.com.tr
 
 
 ## 🌐 Socials:
