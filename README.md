@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @BatuhanAcikgoz<br>- 👀 I’m interested in Kotlin, Java and R Lang<br>- 🌱 I’m currently learning JavaScript<br>- 📫 You can reach me from discord<br>- 🌐 My personal website is https://batuhanacikgoz.com.tr<br><br>Hi, I'm Reeignn, I am CS & statistics student and I'm freelancer. You can visit https://radome.web.tr If you want contact to me, you can add me on discord with Reeignn#4597 or @reeignn tag. Or you can just mail me with iletisim@batuhanacikgoz.com.tr
+- 👋 Hi, I’m @BatuhanAcikgoz<br>- 👀 I’m interested in Kotlin, Java and R Lang<br>- 🌱 I’m currently learning JavaScript<br>- 📫 You can reach me from discord<br>- 🌐 My personal website is https://batuhanacikgoz.com.tr<br><br>Hi, I'm Batuhan, I am Computer Science & Statistics student and I'm freelancer. You can visit https://radome.web.tr If you want contact to me you can just mail me with iletisim@batuhanacikgoz.com.tr
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3EuZvjrxgN) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhan-acikgoz) 
