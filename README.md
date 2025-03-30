@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @BatuhanAcikgoz<br>👀 I’m interested in Kotlin, Java and R Lang <br>🌱 I’m currently learning JavaScript<br>📫 You can reach me from linkedin, email or instagram!<br>🌐 My personal website is https://batuhanacikgoz.com.tr
+👋 Hi, I’m @BatuhanAcikgoz<br>👀 I’m interested in Kotlin, Java and R Lang <br>🌱 I’m currently learning R and Matlab<br>📫 You can reach me from linkedin, email or instagram!<br>🌐 My personal website is https://batuhanacikgoz.com.tr
 
 
 ## 🌐 Socials:
